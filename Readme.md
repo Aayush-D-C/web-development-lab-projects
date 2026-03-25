@@ -1,7 +1,5 @@
 # Lab Report Submission
 
-The above-mentioned lab report has been submitted in a clear and properly structured human-readable format.
-
 A GitHub repository containing all the completed labs has been created, and all lab repositories are set to **public** as instructed.
 
 ## Labs Overview
